@@ -30,7 +30,7 @@ Detailed explanations of the methodologies and thinking processes behind each so
 
 ```
 DSA_practice/
-├── problems/
+├── leetcode_problems/
 │   ├── arrays/
 │   ├── strings/
 │   ├── trees/
